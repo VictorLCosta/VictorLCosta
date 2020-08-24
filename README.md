@@ -1,7 +1,7 @@
 # :octocat: **Victor L. Costa**
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/VictorLCosta)]
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandmanfunky@gmail.com)]
+![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/VictorLCosta)
+![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandmanfunky@gmail.com)
 
 ## Eae, seja bem vindo ao meu Github!! 👋
 
