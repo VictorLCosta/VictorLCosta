@@ -1,16 +1,16 @@
-### Hi there 👋
+# :octocat: **Victor L. Costa**
 
-<!--
-**VictorLCosta/VictorLCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/VictorLCosta)]
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandmanfunky@gmail.com)]
 
-Here are some ideas to get you started:
+## Eae, seja bem vindo ao meu Github!! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá, meu nome é Victor, moro em São Bernardo do Campo/SP e sou estudante de Análise e Desenvolvimento de Sistemas em busca de uma carreira. Busco sempre aprimorar meus conhecimentos e melhorar minhas habilidades através de projetos e cursos, a fim de me tornar um programador a cada dia mais competente.
+
+
+- 🙋‍♂️ A procura do meu primeiro emprego
+- 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas na **Universidade Paulista**
+- 🙋‍♂️ Principais tecnologias: C#, ASP.NET, .NET Core, SQL Server, MySql, PostgreeSql
+- 📚 Eu aprendi os conceitos de programação e diversas tecnologias com os cursos das plataformas: **Udemy**, **TreinaWeb**, **balta.io**. Porém o que mais contribui para o meu aprendizado são os diversos **projetos práticos** que desenvolvi e vou desenvolver para fixar meu conhecimento
+- 💬 A cada dia tentando ser melhor que o meu eu do dia anterior
+
