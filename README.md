@@ -33,7 +33,7 @@ Olá, eu me chamo Victor e sou um desenvolvedor fullstack. Se você tiver uma id
       srcset="https://github-readme-stats.vercel.app/api?username=VictorLCosta&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&custom_title=Status%20do%20GitHub%20de%20VictorLCosta"
       media="(prefers-color-scheme: dark)"
     />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=VictorLCosta&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true" />
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=VictorLCosta&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true" />
   </picture>
   
   <picture>
@@ -41,6 +41,6 @@ Olá, eu me chamo Victor e sou um desenvolvedor fullstack. Se você tiver uma id
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLCosta&show_icons=true&theme=gotham&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&custom_title=Linguagens%20Mais%20Usadas"
       media="(prefers-color-scheme: dark)"
     />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLCosta&show_icons=true&theme=gotham&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&custom_title=Linguanges%20Mais%20Usadas" />
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLCosta&show_icons=true&theme=gotham&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&custom_title=Linguanges%20Mais%20Usadas" />
   </picture>
 </p>
