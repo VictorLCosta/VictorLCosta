@@ -27,20 +27,20 @@ Olá, eu me chamo Victor e sou um desenvolvedor fullstack. Se você tiver uma id
 ![HTML5](https://img.shields.io/badge/-HTML5-f06529?style=flat&logo=html5&logoColor=white) 
 ![Docker](https://img.shields.io/badge/-Docker-384d54?style=flat&logo=docker&logoColor=white)
 
-<p align="center">
+<p align="center" style="width: 100%; display: flex; justify-content: center; align-items: center;">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=VictorLCosta&show_icons=true&theme=gotham&custom_title=Status do Github de VictorLCosta&hide_border=true&line_height=28&include_all_commits=true"
-      media="(prefers-color-scheme: gotham)"
+      srcset="https://github-readme-stats.vercel.app/api?username=VictorLCosta&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&custom_title=Status%20do%20GitHub%20de%20VictorLCosta"
+      media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=VictorLCosta&show_icons=true&theme=gotham&custom_title=Status do Github de VictorLCosta&hide_border=true&line_height=28&include_all_commits=true" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=VictorLCosta&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true" />
   </picture>
   
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLCosta&show_icons=true&theme=gotham&include_all_commits=true&layout=compact&hide_border=true&langs_count=10"
-      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLCosta&show_icons=true&theme=gotham&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&custom_title=Linguagens%20Mais%20Usadas"
+      media="(prefers-color-scheme: gotham)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLCosta&show_icons=true&theme=gotham&include_all_commits=true&layout=compact&hide_border=true&langs_count=10" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLCosta&show_icons=true&theme=gotham&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&custom_title=Linguanges%20Mais%20Usadas" />
   </picture>
 </p>
