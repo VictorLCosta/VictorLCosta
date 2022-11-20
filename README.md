@@ -28,6 +28,11 @@ Olá, eu me chamo Victor e sou um desenvolvedor fullstack. Se você tiver uma id
 ![Docker](https://img.shields.io/badge/-Docker-384d54?style=flat&logo=docker&logoColor=white)
 
 <p align="center">
-  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=VictorLCosta&count_private=true&show_icons=true&include_all_commits=true&custom_title=Status do Github de VictorLCosta&hide_border=true&line_height=28&theme=gotham" />
-  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLCosta&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=gotham" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=VictorLCosta&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=VictorLCosta&show_icons=true" />
+  </picture>
 </p>
