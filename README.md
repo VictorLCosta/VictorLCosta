@@ -35,4 +35,5 @@ Olá, eu me chamo Victor e sou um desenvolvedor fullstack. Se você tiver uma id
     />
     <img src="https://github-readme-stats.vercel.app/api?username=VictorLCosta&show_icons=true" />
   </picture>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLCosta)](https://github.com/VictorLCosta/github-readme-stats)
 </p>
