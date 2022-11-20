@@ -30,10 +30,10 @@ Olá, eu me chamo Victor e sou um desenvolvedor fullstack. Se você tiver uma id
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=VictorLCosta&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=VictorLCosta&show_icons=true&theme=tokyonight&custom_title=Status do Github de VictorLCosta&hide_border=true&line_height=28&include_all_commits=true"
+      media="(prefers-color-scheme: tokyonight)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=VictorLCosta&show_icons=true" />
   </picture>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLCosta)](https://github.com/VictorLCosta/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLCosta&include_all_commits=true&layout=compact&hide_border=true&langs_count=10)]
 </p>
