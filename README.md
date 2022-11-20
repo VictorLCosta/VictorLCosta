@@ -28,6 +28,19 @@ Olá, eu me chamo Victor e sou um desenvolvedor fullstack. Se você tiver uma id
 ![Docker](https://img.shields.io/badge/-Docker-384d54?style=flat&logo=docker&logoColor=white)
 
 <p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorLCosta&show_icons=true&theme=gotham&custom_title=Status do Github de VictorLCosta&hide_border=true&line_height=28&include_all_commits=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLCosta&theme=gotham&include_all_commits=true&layout=compact&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=VictorLCosta&show_icons=true&theme=gotham&custom_title=Status do Github de VictorLCosta&hide_border=true&line_height=28&include_all_commits=true"
+      media="(prefers-color-scheme: gotham)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=VictorLCosta&show_icons=true&theme=gotham&custom_title=Status do Github de VictorLCosta&hide_border=true&line_height=28&include_all_commits=true" />
+  </picture>
+  
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLCosta&show_icons=true&theme=gotham&include_all_commits=true&layout=compact&hide_border=true&langs_count=10"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLCosta&show_icons=true&theme=gotham&include_all_commits=true&layout=compact&hide_border=true&langs_count=10" />
+  </picture>
 </p>
