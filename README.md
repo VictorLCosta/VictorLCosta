@@ -4,6 +4,7 @@
 Olá, eu me chamo Victor e sou um desenvolvedor fullstack. Se você tiver uma ideia, sinta-se livre para me contratar.
 
 [![Instagram Badge](https://img.shields.io/badge/-vitorabiscos-8a3ab9?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/vitorabiscos/)](https://instagram.com/vitorabiscos)
+[![LinkedIn Badge](https://img.shields.io/badge/-Victor%20Costa-0077b5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-lima-costa/)](https://www.linkedin.com/in/victor-lima-costa/)
 [![Gmail Badge](https://img.shields.io/badge/-sandmanfunky@gmail.com-BB001B?style=flat&logo=Gmail&logoColor=white&link=mailto:sandmanfunky@gmail.com)](mailto:sandmanfunky@gmail.com)
 
 ## 👨‍💻 O que estou fazendo...
@@ -44,3 +45,5 @@ Olá, eu me chamo Victor e sou um desenvolvedor fullstack. Se você tiver uma id
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLCosta&show_icons=true&theme=gotham&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&custom_title=Linguanges%20Mais%20Usadas" />
   </picture>
 </p>
+
+![Snake animation](https://github.com/VictorLCosta/VictorLCosta)
